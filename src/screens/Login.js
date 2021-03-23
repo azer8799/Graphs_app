@@ -121,12 +121,6 @@ const styles = StyleSheet.create({
     marginTop: 10,
     textAlign: 'center'
   },
-  // hr: {
-  //   width: '100%',
-  //   height: 0.5,
-  //   backgroundColor: '#444',
-  //   marginTop: 6,
-  // },
   inputBox: {
     marginTop: 10,
     marginBottom:10,
@@ -154,14 +148,4 @@ const styles = StyleSheet.create({
     fontSize: 20,
     fontWeight: 'bold',
   },
-  // registerText: {
-  //   textAlign: 'center',
-  //   marginTop: 20,
-  //   fontSize: 16,
-  // },
-  // forgotPasswordText: {
-  //   textAlign: 'center',
-  //   marginTop: 12,
-  //   fontSize: 16,
-  // },
 });
